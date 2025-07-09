@@ -22,5 +22,5 @@ Features of this Advanced Ethical Hacking Toolkit:
  - Comprehensive reporting with JSON output
  - Cross-platform compatibility (Linux, macOS, Windows)
  - Modular design for easy extension
-#⚠️ Legal Notice
+# ⚠️ Legal Notice
 **This toolkit is for educational purposes only. Use it only on systems you have explicit permission to test. Unauthorized use is illegal and unethical.**
