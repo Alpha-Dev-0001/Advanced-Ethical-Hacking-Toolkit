@@ -24,3 +24,20 @@ Features of this Advanced Ethical Hacking Toolkit:
  - Modular design for easy extension
 # ⚠️ Legal Notice
 **This toolkit is for educational purposes only. Use it only on systems you have explicit permission to test. Unauthorized use is illegal and unethical.**
+# Installation Instructions:
+1. Install required packages:
+   ``pip install scapy requests dns python-whois beautifulsoup4 psutil paramiko``
+2. For wireless scanning capabilities: ``sudo apt-get install aircrack-ng``
+3. Run the toolkit: ``sudo python3 ethical_hacking_toolkit.py``
+# Usage Examples:
+# Port Scanner
+scanner = PortScanner("192.168.1.1", range(1, 1000), 50)
+result = scanner.run_scan()
+
+# Vulnerability Scanner
+vuln_scanner = VulnerabilityScanner("http://example.com")
+vulnerabilities = vuln_scanner.run_scan()
+
+# Password Cracker
+cracker = PasswordCracker("5f4dcc3b5aa765d61d8327deb882cf99", "wordlist.txt", "md5")
+result = cracker.crack() 
