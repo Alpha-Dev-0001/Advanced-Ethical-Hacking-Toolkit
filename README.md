@@ -2,7 +2,7 @@
 Here's a comprehensive, powerful ethical hacking toolkit with all features consolidated into a single Python file
 
 Features of this Advanced Ethical Hacking Toolkit:
-**🛡️ Comprehensive Security Testing Tools**
+# 🛡️ Comprehensive Security Testing Tools
  - Enhanced Port Scanner: Multi-threaded scanning with service detection and banner grabbing
  - Network Discovery: ARP scanning to discover active hosts on a network
  - Vulnerability Scanner: Automated testing for common web vulnerabilities
@@ -15,7 +15,7 @@ Features of this Advanced Ethical Hacking Toolkit:
  - Exploit Search Engine: Search Exploit-DB, GitHub, and Metasploit
  - Password Strength Analyzer: Advanced password analysis with entropy calculation
  - Traffic Analyzer: Real-time network traffic analysis and statistics
-**🔧 Advanced Features**
+# 🔧 Advanced Features
  - Multi-threaded operations for fast scanning
  - Error handling and robust exception management
  - User-friendly interface with color-coded output
